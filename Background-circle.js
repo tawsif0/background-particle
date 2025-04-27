@@ -1,7 +1,7 @@
 import React from 'react';
 
 import ParticlesBg from 'particles-bg'; // <- Import Particles
-import DotsBackground from './Dots';
+import DotsBackground from './dots';
 
 const heroCircle = () => {
     return (
